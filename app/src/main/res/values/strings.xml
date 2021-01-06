@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"> Wardrobe</string>
+
+    <string name="toolbar_favorite">Favourite</string>
+
+    <!-- Add Image -->
+    <string name="add_image_title">Add Image</string>
+    <string name="add_image_take_photo">Take a picture</string>
+    <string name="add_image_pick_photo">Pick an image</string>
+    <string name="add_image_pick_chooser_title">Choose a Gallery application</string>
+
+    <!-- Errors -->
+    <string name="error_no_camera_app">There\'s no application capable of taking an image. Please install one</string>
+    <string name="favorite_error_title">No combination selected</string>
+    <string name="favorite_error_message">Sorry, you cannot mark an empty combination as favorite. \n\nConsider adding some Tops &amp; Bottoms to use this feature!</string>
+
+</resources>
